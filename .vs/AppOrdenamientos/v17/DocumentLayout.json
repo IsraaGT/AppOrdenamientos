@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\ordenamientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\ordenamientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|c:\\users\\israa\\source\\repos\\appordenamientos\\appordenamientos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6284560A-10AE-4934-9E06-8C92B24273C9}|AppOrdenamientos\\AppOrdenamientos.csproj|solutionrelative:appordenamientos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form2.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form2.cs",
+              "RelativeToolTip": "AppOrdenamientos\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:09:45.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form2.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppOrdenamientos\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:07:32.988Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form1.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form1.cs",
+              "RelativeToolTip": "AppOrdenamientos\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:02:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ordenamientos.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Ordenamientos.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Ordenamientos.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Ordenamientos.cs",
+              "RelativeToolTip": "AppOrdenamientos\\Ordenamientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:56:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Archivo.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Archivo.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Archivo.cs",
+              "RelativeToolTip": "AppOrdenamientos\\Archivo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:54:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Estudiante.cs",
+              "RelativeToolTip": "AppOrdenamientos\\Estudiante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:53:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form1.cs",
+              "RelativeDocumentMoniker": "AppOrdenamientos\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\AppOrdenamientos\\AppOrdenamientos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppOrdenamientos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:40:32.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

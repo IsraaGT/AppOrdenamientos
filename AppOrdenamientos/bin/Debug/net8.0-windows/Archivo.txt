@@ -1,0 +1,5 @@
+1 | Juan Perez Garcia | 20 | Informatica | 3
+2 | Jose Diaz Ordaz | 21 | Mecanica | 5
+3 | Maria Jose Perez Salazar | 19 | Gestion | 3
+55 | Axel Alejandro Garcia Nuñez | 21 | Electronica | 7
+68 | Angel Torres de Leon | 20 | Industrial | 5

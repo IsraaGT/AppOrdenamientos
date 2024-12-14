@@ -1,0 +1,17 @@
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\bin\Debug\net8.0-windows\AppOrdenamientos.exe
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\bin\Debug\net8.0-windows\AppOrdenamientos.deps.json
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\bin\Debug\net8.0-windows\AppOrdenamientos.runtimeconfig.json
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\bin\Debug\net8.0-windows\AppOrdenamientos.dll
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\bin\Debug\net8.0-windows\AppOrdenamientos.pdb
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.Form1.resources
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.csproj.GenerateResource.cache
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.AssemblyInfoInputs.cache
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.AssemblyInfo.cs
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.csproj.CoreCompileInputs.cache
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.dll
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\refint\AppOrdenamientos.dll
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.pdb
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.genruntimeconfig.cache
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\ref\AppOrdenamientos.dll
+C:\Users\israa\source\repos\AppOrdenamientos\AppOrdenamientos\obj\Debug\net8.0-windows\AppOrdenamientos.Form2.resources
